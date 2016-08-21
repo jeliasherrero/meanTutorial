@@ -1,0 +1,12 @@
+{
+  "name": "Ejemplo",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "cookieparser": "^0.1.0",
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "jade": "^1.11.0"
+  }
+}
